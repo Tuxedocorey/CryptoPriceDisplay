@@ -1,0 +1,13 @@
+#Phases
+*Research / Planning: In Progress 6/8/2025
+  For this project I need to fully understand API's, my Arduino circuit, and improve my understanding of cryptocurrency.
+  I will begin looking for API's that meet my needs, and choosing components for the circuit.
+  
+*Basic implementation: Not started
+  Basic implementation would mean having a rough draft of code needed for basic versions of the core features.
+  A working circuit.
+*Feature development: Not started
+  Add more advanced features to both the code and circuit.
+*Testing & debugging: Not started
+  Ensure all code works smoothly and test all edgecases.
+*Refactoring / scaling: Not started

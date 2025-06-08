@@ -1,1 +1,3 @@
 #Phase 1 Research and planning
+OK so I have found an API that I believe suits my needs, it's on https://coinmarketcap.com/api/
+I am going to their Quotes Latest v2 API because it can display the most updated crypto prices.

@@ -5,3 +5,7 @@ I am going to their Quotes Latest v2 API because it can display the most updated
                                 ***Notes***
 Right now I am currently trying to figure out how to use this API in code,
 to do this I will write a simple program that calculates the price of Bitcoin.
+
+I worked for around an hour and was able to write the SimplePriceAPI.py code, the hardest part was I kept getting a 400 error code,
+I kept at it and finally got it to function but I didn't know how to parse the JSON data.
+After further research I was able to use arrays to extract the crypto price from the JSON data.

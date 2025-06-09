@@ -1,0 +1,11 @@
+###Simple Price API Explanation###
+
+This was the first part of the project I coded. First I went to https://coinmarketcap.com/api/ and generated my personal API key,
+from there I read their documentation and used their API quick start code to make the bones of my code. 
+
+I took the basic code they provided and added on to it and wrote in a block of code that used my own helper function to parse JSON data and print the
+rounded prices of XRP, BTC, and ETH cryptocurrencies.
+
+###How To use###
+If you want to use the code for yourself you need to make a coinmarketcap account so you can input your
+own API key in the program, then it should work.

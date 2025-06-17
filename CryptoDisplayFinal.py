@@ -1,5 +1,5 @@
-# BasicCryptoPrice
-# This program should find the price of Bitcoin, Ethereum, and XRP
+# CryptoPriceDisplay
+# This program should find the price and % 24 hr change of Bitcoin, Ethereum, Solana, and XRP and display it on LCD.
 # Corey R
 # API KEY: ####
 
@@ -36,7 +36,7 @@ parameters = {
 
 headers = {
     "Accepts": "application/json",
-    "X-CMC_PRO_API_KEY": "a632f103-428c-4f3f-ad9d-f64641138db4",  # INSERT API KEY HERE
+    "X-CMC_PRO_API_KEY": "XXXXX",  # INSERT API KEY HERE
 }
 
 session = Session()

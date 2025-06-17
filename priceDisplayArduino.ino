@@ -15,13 +15,6 @@ void loop() {
 
     
 
-    if (message == "up") {
-      digitalWrite(UP, HIGH);
-      digitalWrite(DOWN, LOW);
-    }
-    else{
-      digitalWrite(DOWN, HIGH);
-      digitalWrite(UP,LOW);
-    }
+    
   }
 }
